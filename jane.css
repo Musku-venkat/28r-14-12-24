@@ -1,0 +1,19 @@
+.jane{
+    text-align: center;
+}
+
+.jane-1{
+    color: rgb(105, 102, 102);
+    font-size: 40px;
+    font-weight: 550;
+}
+
+.jane>img{
+    width: 65%;
+}
+
+.jane-2{
+    padding: 0px 270px;
+    line-height: 35px;
+    text-align: start;
+}

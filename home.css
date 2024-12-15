@@ -1,0 +1,30 @@
+.home{
+    background: url(https://www.w3schools.com/w3images/wedding_couple.jpg) no-repeat;
+    min-height: 90%;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 70px;
+}
+
+.home-1, .home-2, .home-3{
+    color: white;
+}
+
+.home-1{
+    font-size: 70px;
+}
+
+.home-2{
+    font-size: 30px;
+    word-spacing: 6px;
+}
+
+.home-3{
+    font-size: 40px;
+}

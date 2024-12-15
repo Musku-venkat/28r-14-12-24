@@ -1,0 +1,52 @@
+.wedding{
+    text-align: center;
+}
+
+.wedding-1{
+    color: white;
+}
+
+.wedding-1>a{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.wedding-1:hover{
+    color: black;
+    background-color: rgb(215, 208, 208);
+}
+
+.wedding-1>a:hover{
+    color: black;
+    background-color: rgb(215, 208, 208);
+}
+
+.wedding-sub{
+    text-align: center;
+    position: relative;
+    background: url(https://www.w3schools.com/w3images/flowers.jpg) no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 100px;
+}
+
+.wedding-sub-1, .wedding-sub-2{
+    color: white;
+}
+
+.wedding-sub-1{
+    font-size: 65px;
+}
+
+.wedding-sub-2{
+    font-size: 30px;
+}
